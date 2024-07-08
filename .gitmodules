@@ -1,0 +1,9 @@
+[submodule "event-reciever"]
+	path = event-reciever
+	url = https://github.com/raksmeycoding/event-reciever.git
+[submodule "event-processor"]
+	path = event-processor
+	url = https://github.com/raksmeycoding/event-processor.git
+[submodule "realtime-notification"]
+	path = realtime-notification
+	url = https://github.com/raksmeycoding/realtime-notification.git
